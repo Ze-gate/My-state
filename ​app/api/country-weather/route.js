@@ -1,4 +1,4 @@
-```javascript
+
 import { NextResponse } from 'next/server';
 
 // Pemetaan Kode Cuaca WMO (World Meteorological Organization)
@@ -106,4 +106,3 @@ export async function GET(request) {
     );
   }
 }
-```
